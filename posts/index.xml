@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Inquietudes de un sysadmin</title>
+        <link>https://k4y53r.github.io/posts/</link>
+        <description>Recent content in Posts on Inquietudes de un sysadmin</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>es</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Sat, 09 Oct 2021 01:25:08 +0200</lastBuildDate>
+        <atom:link href="https://k4y53r.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Presentacion</title>
+            <link>https://k4y53r.github.io/posts/presentacion/</link>
+            <pubDate>Sat, 09 Oct 2021 01:25:08 +0200</pubDate>
+            
+            <guid>https://k4y53r.github.io/posts/presentacion/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
